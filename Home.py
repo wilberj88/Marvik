@@ -1,5 +1,17 @@
 import requests
 import streamlit as st
+from fast_api_server import obtener_fecha, contador_llamadas
+
+# APP CONFIG
+st.set_page_config(page_title="Marvik - Will", page_icon="🤖")
+
+# TITLE 
+st.title('Wilber Jiménez (Will)´s Test')
+st.title('Marvik`s Candidate 🤖')
+
+#TEST1
+st.header("Time Series - Google Colab:")
+
 
 # URL base de la API FastAPI
 base_url = "http://localhost:8000"
