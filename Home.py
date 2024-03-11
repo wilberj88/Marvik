@@ -19,6 +19,6 @@ st.header("Test 2: FAST API")
 
 
 #TEST 3
-st.header("Test 3: Style-Based Desings - Summary")
-st.write("The only constant is change. Some of the NVIDIA Research team presented in 2019 how the traditional way for architechure Generative Adversarial Networks can be improved in its performance and quality through new methods")
-st.write("")
+st.header("Test 3: Style-Based Desings - Summary in my terms")
+st.write("The only constant is change. Some of the NVIDIA Research team presented in 2019 how the traditional way for architechure Generative Adversarial Networks can be improved in its performance and quality through two new automated methods that are applicable to any generator architecture.")
+st.write("The computer vision capabilitties for detect humans and their movements have been rised with the Style Based Desing. For testing, real time implementation and future discoveries the NVIDIA team has share HumanFaces Dataset with the mayor variaty and quality for empower the next generation of computer vision solutions. The future starts now.")
