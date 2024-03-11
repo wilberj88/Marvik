@@ -16,7 +16,7 @@ st.link_button("Go to de Google Colab", "https://colab.research.google.com/drive
 #TEST 2
 
 st.header("Test 2: FAST API")
-st.page_link("pages/Test2.py", label="Test2", icon="1️⃣")
+st.page_link("pages/Test2.py", label="Test2", icon="🔗")
 
 #TEST 3
 st.header("Test 3: Style-Based Desings")
